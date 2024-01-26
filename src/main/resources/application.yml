@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url:
+    password: Diyor2412
+    username: postgres
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop
